@@ -1,0 +1,33 @@
+{
+  "id": "5ee391d2-d436-41d9-a522-4ce97d922d4d",
+  "name": "Vollerup Basic",
+  "publisher": "Aktieselskabet balance.as",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./image/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 97700,
+      "to": 97799
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
