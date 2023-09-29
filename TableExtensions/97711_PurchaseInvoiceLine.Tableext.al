@@ -8,13 +8,17 @@ tableextension 97711 "BAL Purch. Inv.Line table ext" extends "Purch. Inv. Line"
             Caption = 'Quality';
             TableRelation = "BAL Qualtity";
         }
-        field(97701; "BAL Length"; Text[50])
+        field(97701; "BAL Length"; Decimal)
         {
             DataClassification = ToBeClassified;
             Caption = 'Length';
+            DecimalPlaces = 0 : 5;
+        }
+        field(97702; "BAL Total Length"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Total Length';
+            DecimalPlaces = 0 : 5;
         }
     }
-
-    var
-        myInt: Integer;
 }

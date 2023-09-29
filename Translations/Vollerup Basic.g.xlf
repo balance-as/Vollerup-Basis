@@ -18,6 +18,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BAL Quality - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2235509879 - Control 2621574166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Vollerup Fields</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Puch order PageExt - Control VollerupFields - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2785208315 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
           <source>Length</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -27,6 +32,11 @@
           <source>Quality</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch CrMemoLine table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2785208315 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch CrMemoLine table ext - Field BAL Total Length - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2658272069 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733">
           <source>Length</source>
@@ -38,6 +48,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch. Inv.Line table ext - Field BAL Quality - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2658272069 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2575310733">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch. Inv.Line table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 3433616337 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265">
           <source>Length</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -47,6 +62,26 @@
           <source>Quality</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch. Rcpt.Line table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3433616337 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 959319265">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch. Rcpt.Line table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2355416470 - Field 990070482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Job Task</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purchase Header Ext - Field BAL Job Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2355416470 - Field 596193001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Job No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purchase Header Ext - Field BAL Job No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2355416470 - Field 2759417183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Job Task</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purchase Header Ext - Field BAL Job Task - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2350922519 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
           <source>Length</source>
@@ -58,6 +93,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purchase Line table ext - Field BAL Quality - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2350922519 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purchase Line table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 247839519 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4118213496">
           <source>Length</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -67,6 +107,11 @@
           <source>Quality</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL ReturnShipm.Line table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 247839519 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4118213496">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL ReturnShipm.Line table ext - Field BAL Total Length - Property Caption</note>
         </trans-unit>
       </group>
     </body>

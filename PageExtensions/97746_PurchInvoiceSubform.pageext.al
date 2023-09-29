@@ -12,6 +12,11 @@ pageextension 97746 "BAL PostedPuchInv Subf PageExt" extends "Posted Purch. Invo
             {
                 ApplicationArea = all;
             }
+            field("BAL Total Length";Rec."BAL Total Length")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
     }
 

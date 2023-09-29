@@ -12,6 +12,11 @@ pageextension 97748 "BAL PostPuch RecpSubf PageExt" extends "Posted Return Shipm
             {
                 ApplicationArea = all;
             }
+            field("BAL Total Length";Rec."BAL Total Length")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
 
     }

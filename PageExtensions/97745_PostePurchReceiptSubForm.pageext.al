@@ -12,6 +12,11 @@ pageextension 97745 "BAL Puch Reciept Subf PageExt" extends "Posted Purchase Rcp
             {
                 ApplicationArea = all;
             }
+            field("BAL Total Length";Rec."BAL Total Length")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
     }
 

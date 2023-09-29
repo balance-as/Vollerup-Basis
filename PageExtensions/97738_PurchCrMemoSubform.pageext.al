@@ -12,6 +12,11 @@ pageextension 97738 "BAL Puch CrMemoSubf PageExt" extends "Purch. Cr. Memo Subfo
             {
                 ApplicationArea = all;
             }
+            field("BAL Total Length";Rec."BAL Total Length")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
     }
 
