@@ -16,6 +16,8 @@ reportextension 97702 "BAL Purchase Invoice Rep Ext" extends "Purchase - Invoice
             {
 
             }
+            column(BAL_Total_Length;"BAL Total Length")
+            {}
         }
     }
 }

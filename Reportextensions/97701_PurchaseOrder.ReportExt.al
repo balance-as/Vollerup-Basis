@@ -16,6 +16,8 @@ reportextension 97701 "BAL Purchase order Report Ext" extends "Standard Purchase
             {
 
             }
+            column(BAL_Total_Length;"BAL Total Length")
+            {}
         }
     }
 }
