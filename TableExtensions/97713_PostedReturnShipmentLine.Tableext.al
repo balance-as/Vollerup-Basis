@@ -13,12 +13,14 @@ tableextension 97713 "BAL ReturnShipm.Line table ext" extends "Return Shipment L
             DataClassification = ToBeClassified;
             Caption = 'Length';
             DecimalPlaces = 0 : 5;
+            BlankZero = true;
         }
         field(97702; "BAL Total Length"; Decimal)
         {
             DataClassification = ToBeClassified;
             Caption = 'Total Length';
             DecimalPlaces = 0 : 5;
+            BlankZero = true;
         }
     }
 }

@@ -13,12 +13,14 @@ tableextension 97711 "BAL Purch. Inv.Line table ext" extends "Purch. Inv. Line"
             DataClassification = ToBeClassified;
             Caption = 'Length';
             DecimalPlaces = 0 : 5;
+            BlankZero = true;
         }
         field(97702; "BAL Total Length"; Decimal)
         {
             DataClassification = ToBeClassified;
             Caption = 'Total Length';
             DecimalPlaces = 0 : 5;
+            BlankZero = true;
         }
     }
 }
