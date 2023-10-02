@@ -18,10 +18,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BAL Quality - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1152620230 - Control 2621574166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Vollerup Fields</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Puch Invoice PageExt - Control VollerupFields - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2235509879 - Control 2621574166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
           <source>Vollerup Fields</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Puch order PageExt - Control VollerupFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4149966091 - Control 2621574166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Vollerup Fields</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Puch Quote PageExt - Control VollerupFields - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2785208315 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
           <source>Length</source>

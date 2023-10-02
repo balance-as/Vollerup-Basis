@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[],"Removed":[]}
+﻿{"Added":[],"Modified":[{"Id":97700,"Kind":27,"Name":"BAL Purchase Quote Report Ext","PackagePath":"/src/Reportextensions/97700_PurchaseQuote.ReportExt.al"},{"Id":97730,"Kind":11,"Name":"BAL Vollerup Func","PackagePath":"/src/Codeunit/97700_BAL_VollerupFunc.al"},{"Id":97730,"Kind":16,"Name":"BAL Puch Quote PageExt","PackagePath":"/src/PageExtensions/97730_PurchQuote.pageext.al"},{"Id":97732,"Kind":16,"Name":"BAL Puch Invoice PageExt","PackagePath":"/src/PageExtensions/97732_PurchInvoice.pageext.al"}],"Removed":[]}

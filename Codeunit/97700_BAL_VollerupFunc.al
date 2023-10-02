@@ -1,11 +1,12 @@
 codeunit 97730 "BAL Vollerup Func"
 {
     [EventSubscriber(ObjectType::Table, Database::"Purchase Line", 'OnBeforeInsertEvent', '', true, true)]
-    local procedure TablePurchaseLineOnBeforeInsertEvent(var Rec: Record "Purchase Line")
+    local procedure TablePurchaseLineOnBeforeInsertEvent(var Rec: Record "Purchase Line";RunTrigger: Boolean)
     var
         PurchaseHeader: Record "Purchase Header";
     begin
         PurchaseHeader := Rec.GetPurchHeader();
+        Rec.SuspendStatusCheck(true);
         Rec.validate("Job No.", PurchaseHeader."BAL Job No.");
         Rec.Validate("Job Task No.", PurchaseHeader."BAL Job Task");
     end;
