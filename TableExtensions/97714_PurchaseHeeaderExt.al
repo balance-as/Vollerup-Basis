@@ -22,7 +22,7 @@ tableextension 97714 "BAL Purchase Header Ext" extends "Purchase Header"
 
         field(97702; "BAL Job Description"; Text[100])
         {
-            Caption = 'Job Task';
+            Caption = 'Job Description';
             FieldClass = FlowField;
             Editable = false;
             CalcFormula = lookup(Job.Description where("No." = field("BAL Job No.")));

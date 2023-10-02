@@ -69,7 +69,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purch. Rcpt.Line table ext - Field BAL Total Length - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2355416470 - Field 990070482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
-          <source>Job Task</source>
+          <source>Job Description</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Purchase Header Ext - Field BAL Job Description - Property Caption</note>
         </trans-unit>
