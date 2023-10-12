@@ -17,6 +17,11 @@ pageextension 97737 "BAL Puch Invoice Subf PageExt" extends "Purch. Invoice Subf
                 ApplicationArea = All;
                 BlankZero = true;
             }
+            field("BAL Width"; Rec."BAL Width")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
     }
 

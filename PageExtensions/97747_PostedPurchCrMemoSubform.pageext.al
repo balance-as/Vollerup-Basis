@@ -17,6 +17,11 @@ pageextension 97747 "BAL Posted CrMemoSubf PageExt" extends "Posted Purch. Cr. M
                 ApplicationArea =All;
                 BlankZero = true;
             }
+            field("BAL Width"; Rec."BAL Width")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
     }
 

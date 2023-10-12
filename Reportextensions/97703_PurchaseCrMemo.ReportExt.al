@@ -18,6 +18,8 @@ reportextension 97703 "BAL Purchase CrMemo Report Ext" extends "Purchase - Credi
             }
             column(BAL_Total_Length; "BAL Total Length")
             { }
+            column(BAL_Width; "BAL Width")
+            { }
         }
     }
 }

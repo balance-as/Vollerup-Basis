@@ -17,6 +17,11 @@ pageextension 97739 "BAL Puch ReturnSubf PageExt" extends "Purchase Return Order
                 ApplicationArea = All;
                 BlankZero = true;
             }
+            field("BAL Width"; Rec."BAL Width")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
 
     }

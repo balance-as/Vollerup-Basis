@@ -17,6 +17,11 @@ pageextension 97735 "BAL Puch Quote Subf PageExt" extends "Purchase Quote Subfor
                 ApplicationArea = All;
                 BlankZero = true;
             }
+            field("BAL Width"; Rec."BAL Width")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
     }
 

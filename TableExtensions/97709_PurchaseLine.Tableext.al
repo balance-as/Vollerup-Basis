@@ -22,5 +22,12 @@ tableextension 97709 "BAL Purchase Line table ext" extends "Purchase Line"
             DecimalPlaces = 0 : 5;
             BlankZero = true;
         }
+        field(97703; "BAL Width"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Width';
+            DecimalPlaces = 0 : 5;
+            BlankZero = true;
+        }
     }
 }

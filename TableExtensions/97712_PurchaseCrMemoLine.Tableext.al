@@ -22,5 +22,12 @@ tableextension 97712 "BAL Purch CrMemoLine table ext" extends "Purch. Cr. Memo L
             DecimalPlaces = 0 : 5;
             BlankZero = true;
         }
+        field(97703; "BAL Width"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Width';
+            DecimalPlaces = 0 : 5;
+            BlankZero = true;
+        }
     }
 }

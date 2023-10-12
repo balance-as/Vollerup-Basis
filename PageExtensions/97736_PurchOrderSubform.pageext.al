@@ -17,6 +17,11 @@ pageextension 97736 "BAL Puch order Subform PageExt" extends "Purchase Order Sub
                 ApplicationArea = All;
                 BlankZero = true;
             }
+            field("BAL Width"; Rec."BAL Width")
+            {
+                ApplicationArea = All;
+                BlankZero = true;
+            }
         }
 
     }

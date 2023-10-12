@@ -22,5 +22,12 @@ tableextension 97711 "BAL Purch. Inv.Line table ext" extends "Purch. Inv. Line"
             DecimalPlaces = 0 : 5;
             BlankZero = true;
         }
+        field(97703; "BAL Width"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Width';
+            DecimalPlaces = 0 : 5;
+            BlankZero = true;
+        }
     }
 }

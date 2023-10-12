@@ -22,6 +22,8 @@ reportextension 97700 "BAL Purchase Quote Report Ext" extends "Purchase - Quote"
             }
             column(BAL_Total_Length; "Purchase Line"."BAL Total Length")
             { }
+            column(BAL_Width; "Purchase Line"."BAL Width")
+            { }
         }
     }
 }

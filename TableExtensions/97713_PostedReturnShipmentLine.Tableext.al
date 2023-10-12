@@ -22,5 +22,13 @@ tableextension 97713 "BAL ReturnShipm.Line table ext" extends "Return Shipment L
             DecimalPlaces = 0 : 5;
             BlankZero = true;
         }
+        field(97703; "BAL Width"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Width';
+            DecimalPlaces = 0 : 5;
+            BlankZero = true;
+        }
+
     }
 }

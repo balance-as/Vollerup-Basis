@@ -22,5 +22,12 @@ tableextension 97710 "BAL Purch. Rcpt.Line table ext" extends "Purch. Rcpt. Line
             DecimalPlaces = 0 : 5;
             BlankZero = true;
         }
+        field(97002; "BAL Width"; Decimal)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Width';
+            DecimalPlaces = 0 : 5;
+            BlankZero = true;
+        }
     }
 }
