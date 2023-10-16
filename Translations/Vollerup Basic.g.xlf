@@ -13,6 +13,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BAL Qualtity - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3635018054 - Method 2617239305 - NamedType 218166550" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is the payments exported correctly?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BAL Vollerup Func - Method SetExported - NamedType ConfirmTxt</note>
+        </trans-unit>
         <trans-unit id="Page 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Quality</source>
           <note from="Developer" annotates="general" priority="2"></note>
