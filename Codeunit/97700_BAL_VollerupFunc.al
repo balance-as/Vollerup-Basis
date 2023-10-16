@@ -5,6 +5,10 @@ codeunit 97730 "BAL Vollerup Func"
     var
         PurchaseHeader: Record "Purchase Header";
     begin
+        if rec.IsTemporary then
+            exit;
+        if Rec."Quantity Received" > 0 then
+            exit;
         if Rec.Type = Rec.Type::" " then
             exit;
         PurchaseHeader := Rec.GetPurchHeader();
