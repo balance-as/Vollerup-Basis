@@ -68,4 +68,17 @@ codeunit 97730 "BAL Vollerup Func"
         if TimeSheetLine.insert then;
     end;
 
+    [EventSubscriber(ObjectType::Page, Page::"Payment Journal", 'OnAfterActionEvent', 'ExportPaymentsToFile', true, true)]
+    local procedure SetExported(var Rec: Record "Gen. Journal Line")
+    var
+        GenJnlLine: Record "Gen. Journal Line";
+        ConfirmTxt: label 'Is the payments exported correctly?';
+
+    begin
+        GenJnlLine.SetRange("Journal Template Name", rec."Journal Template Name");
+        GenJnlLine.setrange("Journal Batch Name", rec."Journal Batch Name");
+        if Confirm(confirmtxt, true) then
+            GenJnlLine.modifyall("Check Transmitted", true);
+    end;
+
 }
