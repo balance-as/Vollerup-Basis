@@ -12,6 +12,8 @@ codeunit 97730 "BAL Vollerup Func"
         if Rec.Type = Rec.Type::" " then
             exit;
         PurchaseHeader := Rec.GetPurchHeader();
+        if PurchaseHeader."BAL Job No." = '' then
+            exit;
         Rec.SuspendStatusCheck(true);
         Rec.validate("Job No.", PurchaseHeader."BAL Job No.");
         Rec.Validate("Job Task No.", PurchaseHeader."BAL Job Task");
