@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "Smedeland_test",
+            "environmentName": "sandbox",
             "tenant": "62514543-c1c4-4941-9308-034e90ad278d",
             "startupObjectId": 22,
             "startupObjectType": "Page",

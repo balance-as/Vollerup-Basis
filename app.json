@@ -2,7 +2,7 @@
   "id": "5ee391d2-d436-41d9-a522-4ce97d922d4d",
   "name": "Vollerup Basic",
   "publisher": "Aktieselskabet balance.as",
-  "version": "1.0.0.14",
+  "version": "1.0.0.15",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -10,7 +10,14 @@
   "help": "https://www.balance.as",
   "url": "https://www.balance.as",
   "logo": "./image/logo.png",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
+      "name": "Continia Document Capture",
+      "publisher": "Continia Software",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
