@@ -8,7 +8,7 @@ pageextension 97750 "BAL CDC Purch. List Ext" extends "CDC Purchase List"
     layout
     {
         // Add changes to page layout here
-        addlast(content)
+        addlast(ListGroup)
         {
             field("BAL Job No."; Rec."BAL Job No.")
             {
