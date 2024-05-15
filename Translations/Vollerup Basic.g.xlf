@@ -23,6 +23,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BAL Quality - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2377851157 - Change 1343998147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>&amp;Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Job List Ext - Change &amp;Job - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1152620230 - Control 2621574166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
           <source>Vollerup Fields</source>
           <note from="Developer" annotates="general" priority="2"></note>
