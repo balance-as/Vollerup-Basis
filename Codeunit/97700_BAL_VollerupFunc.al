@@ -83,4 +83,45 @@ codeunit 97730 "BAL Vollerup Func"
             GenJnlLine.modifyall("Check Transmitted", true);
     end;
 
+    //cu22
+
+    [EventSubscriber(ObjectType::Table, Database::"Item Journal Line", OnAfterCopyItemJnlLineFromPurchLine, '', true, true)]
+    local procedure DatabaseItemJournalLineOnAfterCopyItemJnlLineFromPurchLine(PurchLine: Record "Purchase Line"; var ItemJnlLine: Record "Item Journal Line")
+    begin
+        ItemJnlLine."BAL Quality" := PurchLine."BAL Quality";
+        ItemJnlLine."BAL Width" := PurchLine."BAL Width";
+        ItemJnlLine."BAL Length" := PurchLine."BAL Length";
+        ItemJnlLine."BAL Total Length" := PurchLine."BAL Total Length";
+    end;
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"Item Jnl.-Post Line", OnAfterInitItemLedgEntry, '', true, true)]
+    local procedure CodeunitItemJnlPostLineOnAfterInitItemLedgEntry(ItemJournalLine: Record "Item Journal Line"; var NewItemLedgEntry: Record "Item Ledger Entry")
+    begin
+        NewItemLedgEntry."BAL Quality" := ItemJournalLine."BAL Quality";
+        NewItemLedgEntry."BAL Width" := ItemJournalLine."BAL Width";
+        NewItemLedgEntry."BAL Length" := ItemJournalLine."BAL Length";
+        NewItemLedgEntry."BAL Total Length" := ItemJournalLine."BAL Total Length";
+    end;
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"Job Transfer Line", OnAfterFromPurchaseLineToJnlLine, '', true, true)]
+    local procedure CodeunitJoBTransferLineOnAfterFromPurchaseLineToJnlLine(var JobJnlLine: Record "Job Journal Line"; PurchLine: Record "Purchase Line")
+    begin
+        JobJnlLine."BAL Quality" := PurchLine."BAL Quality";
+        JobJnlLine."BAL Width" := PurchLine."BAL Width";
+        JobJnlLine."BAL Length" := PurchLine."BAL Length";
+        JobJnlLine."BAL Total Length" := PurchLine."BAL Total Length";
+    end;
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"Job Transfer Line", OnAfterFromJnlLineToLedgEntry, '', true, true)]
+    local procedure CodeunitJobTransferLineOnAfterFromJnlLineToLedgEntry(var JobLedgerEntry: Record "Job Ledger Entry"; JobJournalLine: Record "Job Journal Line")
+    var
+
+    begin
+        JobLedgerEntry."BAL Quality" := JobJournalLine."BAL Quality";
+        JobLedgerEntry."BAL Width" := JobJournalLine."BAL Width";
+        JobLedgerEntry."BAL Length" := JobJournalLine."BAL Length";
+        JobLedgerEntry."BAL Total Length" := JobJournalLine."BAL Total Length";
+    end;
+
+
 }
