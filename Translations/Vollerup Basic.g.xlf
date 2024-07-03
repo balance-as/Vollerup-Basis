@@ -123,6 +123,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Ledg Entry table ext - Field BAL Width - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Quality</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Width - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2785208315 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
           <source>Length</source>
           <note from="Developer" annotates="general" priority="2"></note>

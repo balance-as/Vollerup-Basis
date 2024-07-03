@@ -123,5 +123,24 @@ codeunit 97730 "BAL Vollerup Func"
         JobLedgerEntry."BAL Total Length" := JobJournalLine."BAL Total Length";
     end;
 
+    [EventSubscriber(ObjectType::Table, Database::"Job Buffer", 'OnReportJobItemOnBeforeUpsertJobBuffer', '', true, true)]
+    local procedure DatabaseJobBufferOnReportJobItemOnBeforeUpsertJobBuffer(JobLedgerEntry: Record "Job Ledger Entry"; Item: Record Item; var TempJobBuffer: array[2] of Record "Job Buffer")
+    begin
+        TempJobBuffer[1]."BAL Width" := JobLedgerEntry."BAL Width";
+        TempJobBuffer[1]."BAL Length" := JobLedgerEntry."BAL Length";
+        TempJobBuffer[1]."BAL Quality" := JobLedgerEntry."BAL Quality";
+        TempJobBuffer[1]."BAL Total Length" := JobLedgerEntry."BAL Total Length";
+    end;
+
+    [EventSubscriber(ObjectType::Table, Database::"Job Buffer", 'OnReportJobItemOnBeforeModifyJobBuffer', '', true, true)]
+    local procedure DatabaseJobBufferOnReportJobItemOnBeforeModifyJobBuffer(var TempJobBuffer: array[2] of Record "Job Buffer"; JobLedgerEntry: Record "Job Ledger Entry")
+    begin
+        TempJobBuffer[2]."BAL Width" :=
+                             TempJobBuffer[2]."BAL Width" + TempJobBuffer[1]."BAL Width";
+        TempJobBuffer[2]."BAL Length" :=
+                              TempJobBuffer[2]."BAL Length" + TempJobBuffer[1]."BAL Length";
+        TempJobBuffer[2]."BAL Total Length" :=
+                             TempJobBuffer[2]."BAL Total Length" + TempJobBuffer[1]."BAL Total Length";
+    end;
 
 }
