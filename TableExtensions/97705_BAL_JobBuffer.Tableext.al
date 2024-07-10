@@ -30,4 +30,11 @@ tableextension 97705 "BAL JobBuffer table ext" extends "Job Buffer"
             BlankZero = true;
         }
     }
+    keys
+    {
+        key(ExtKey1;"BAL Quality")
+        {
+            
+        }
+    }
 }

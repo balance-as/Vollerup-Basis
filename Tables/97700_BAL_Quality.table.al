@@ -4,6 +4,7 @@ table 97700 "BAL Qualtity"
     LookupPageId = "BAL Quality";
     DrillDownPageId= "BAL Quality";
     
+    
     fields
     {
   field(1;Code; Code[10])

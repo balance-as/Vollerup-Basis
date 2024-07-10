@@ -3,6 +3,199 @@
   <file datatype="xml" source-language="en-US" target-language="da-DK" original="Vollerup Basic.g.xlf">
     <body>
       <group id="body">
+        <trans-unit id="Table 651452484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BAL Project Buffer</source>
+          <target>Projekt Buffer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 1703165553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No. 1</source>
+          <target>Kontonr. 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Account No. 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 1065468936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No. 2</source>
+          <target>Kontonr. 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Account No. 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 1676340591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 1</source>
+          <target>Beløb 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3589430442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 2</source>
+          <target>Beløb 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 2951733825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 3</source>
+          <target>Beløb 3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 569856380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 4</source>
+          <target>Beløb 4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 4227127059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 5</source>
+          <target>Beløb 5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Length</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3659293434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Total</source>
+          <target>Nyt beløb i alt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field New Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items per Project Quality</source>
+          <target>Vare pr projekt med kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items per Job Quality</source>
+          <target>Vare pr projekt kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 892770887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All amounts are in LCY</source>
+          <target>Alle beløb er i RV.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType AllamountsareinLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Side</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType CurrReportPageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 581024604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Varenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType ItemNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 1248363446" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items per Project</source>
+          <target>Varer pr projekt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType ItemsperJobCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 499621575" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType JobBufferDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 910044059" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Linjebeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType JobBufferLineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 2101802780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType JobBufferQuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 2299848654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Cost</source>
+          <target>Kostbeløb</target>
+          <target>[NAB: SUGGESTION]Vareforbrug i alt</target>
+          <target>[NAB: SUGGESTION]Kostbeløb i alt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType JobBufferTotalCostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 4036716458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Måleenhed</target>
+          <target>[NAB: SUGGESTION]Enhed</target>
+          <target>[NAB: SUGGESTION]Enhe.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType JobBuffeUOMCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 981579234" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType LengthLBL</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 629514193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType QualityLbL</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Total</target>
+          <target>[NAB: SUGGESTION]Totalbeløb</target>
+          <target>[NAB: SUGGESTION]I alt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 554822307" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for</source>
+          <target>Kostbeløb for</target>
+          <target>[NAB: SUGGESTION]Total for</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType TotalForTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 84298696" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalLength</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType TotalLengthLBL</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - NamedType 4287729384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType WidthLBL</note>
+        </trans-unit>
         <trans-unit id="Table 2147684866 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
           <target>Kode</target>
@@ -15,11 +208,23 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BAL Qualtity - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3635018054 - Method 2617239305 - NamedType 218166550" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is the payments exported correctly?</source>
+          <target>Er betalinger eksporteret korrekt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BAL Vollerup Func - Method SetExported - NamedType ConfirmTxt</note>
+        </trans-unit>
         <trans-unit id="Page 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Quality</source>
           <target>Kvalitet</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2377851157 - Change 1343998147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2273701615">
+          <source>&amp;Job</source>
+          <target>&amp;Sag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Job List Ext - Change &amp;Job - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1152620230 - Control 2621574166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
           <source>Vollerup Fields</source>
@@ -38,6 +243,126 @@
           <target>Vollerup felter</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension BAL Puch Quote PageExt - Control VollerupFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 965000341 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Jnl Line table ext - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 965000341 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Jnl Line table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 965000341 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Total Length</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Jnl Line table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 965000341 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Jnl Line table ext - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4218862477 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Ledg Entry table ext - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4218862477 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Ledg Entry table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4218862477 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Total Length</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Ledg Entry table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4218862477 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Item Ledg Entry table ext - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2858138011 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 938095748">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Jnl Line table ext - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2858138011 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 938095748">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Jnl Line table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2858138011 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 938095748">
+          <source>Total Length</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Jnl Line table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2858138011 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 938095748">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Jnl Line table ext - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3940370787 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 53801266">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Ledg Entry table ext - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3940370787 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 53801266">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Ledg Entry table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3940370787 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 53801266">
+          <source>Total Length</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Ledg Entry table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3940370787 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 53801266">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL Job Ledg Entry table ext - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Total Length</source>
+          <target>Total længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2392096313 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 146216321">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL JobBuffer table ext - Field BAL Width - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2785208315 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 518488723">
           <source>Length</source>
@@ -176,6 +501,96 @@
           <target>Bredde</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension BAL ReturnShipm.Line table ext - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 1248363446" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items per Project</source>
+          <target>Varer pr projekt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType ItemsperJobCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Side</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType CurrReportPageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 892770887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All amounts are in LCY</source>
+          <target>Alle beløb er i RV.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType AllamountsareinLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 910044059" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Linjebeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType JobBufferLineAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 2299848654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Cost</source>
+          <target>Kostbeløb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType JobBufferTotalCostCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 4036716458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure</source>
+          <target>Måleenhed</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType JobBuffeUOMCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 2101802780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Antal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType JobBufferQuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 499621575" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beskrivelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType JobBufferDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 581024604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Varenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType ItemNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 554822307" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for</source>
+          <target>Kostbeløb for</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType TotalForTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 981579234" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <target>Længde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType LengthLBL</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 4287729384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target>Bredde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType WidthLBL</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 629514193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target>Kvalitet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType QualityLbL</note>
+        </trans-unit>
+        <trans-unit id="Report 1107844635 - ReportColumn 3033420285 - NamedType 84298696" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TotalLength</source>
+          <target>TotalLængde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - ReportColumn BALWidthLBL - NamedType TotalLengthLBL</note>
         </trans-unit>
       </group>
     </body>

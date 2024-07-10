@@ -2,7 +2,7 @@
   "id": "5ee391d2-d436-41d9-a522-4ce97d922d4d",
   "name": "Vollerup Basic",
   "publisher": "Aktieselskabet balance.as",
-  "version": "1.0.0.17",
+  "version": "1.0.0.18",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -32,7 +32,7 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "runtime": "11.0",
+  "runtime": "12.0",
   "features": [
     "NoImplicitWith",
     "TranslationFile"

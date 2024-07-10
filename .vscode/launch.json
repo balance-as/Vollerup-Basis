@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "sandbox",
+            "environmentName": "Vollerup_DEV240710",
             "tenant": "62514543-c1c4-4941-9308-034e90ad278d",
             "startupObjectId": 22,
             "startupObjectType": "Page",
