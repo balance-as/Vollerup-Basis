@@ -3,76 +3,6 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Vollerup Basic">
     <body>
       <group id="body">
-        <trans-unit id="Table 651452484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>BAL Project Buffer</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 1703165553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Account No. 1</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Account No. 1 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 1065468936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Account No. 2</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Account No. 2 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 1676340591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount 1</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 1 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 3589430442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount 2</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 2 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 2951733825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount 3</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 3 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 569856380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount 4</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 4 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 4227127059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Amount 5</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 5 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Length</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Length - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Quality</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Quality - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Total Length</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Total Length - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Width</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Width - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Description</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Description - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 651452484 - Field 3659293434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>New Total</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field New Total - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Report 1107844635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Items per Project Quality</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -157,6 +87,76 @@
           <source>Width</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report BAL Items per Job - NamedType WidthLBL</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BAL Project Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 1703165553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No. 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Account No. 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 1065468936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No. 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Account No. 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 1676340591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3589430442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 2951733825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 569856380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 4227127059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Amount 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 2928255885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3147579742 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 920128875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Total Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 400377131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field BAL Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 651452484 - Field 3659293434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BAL Job Buffer - Field New Total - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2147684866 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>

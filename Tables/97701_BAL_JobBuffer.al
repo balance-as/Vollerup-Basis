@@ -1,11 +1,3 @@
-namespace Microsoft.Projects.Project.Journal;
-
-using Microsoft.Finance.GeneralLedger.Ledger;
-using Microsoft.Inventory.Item;
-using Microsoft.Projects.Project.Job;
-using Microsoft.Projects.Project.Ledger;
-using Microsoft.Projects.Project.WIP;
-
 table 97701 "BAL Job Buffer"
 {
     Caption = 'BAL Project Buffer';
